@@ -2,7 +2,7 @@
 
 Fun times this one, it was during IE5 or greater era, when Firefox was the coolest browser in town, and `@cc_on` conditional coments were making IE features detection way easier than today.
 
-`undefined` in this days, was literally node defined.
+`undefined` in these days, was literally node defined.
 
 - - -
 
